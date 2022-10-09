@@ -48,12 +48,9 @@ We can create a NumPy ndarray object by using the array() function.
 nested array: are arrays that have arrays as their elements.
 - 0-D arrays
 0-D arrays, or Scalars, are the elements in an array. Each value in an array is a 0-D array.
-- 1-D arrays 
-An array that has 0-D arrays as its elements is called uni-dimensional or 1-D array. These are the most common and basic arrays.
-- 2-D arrays
-An array that has 1-D arrays as its elements is called a 2-D array. These are often used to represent matrix or 2nd order tensors.
-- 3-D arrays
-An array that has 2-D arrays (matrices) as its elements is called 3-D array. These are often used to represent a 3rd order tensor.
+- 1-D arrays : An array that has 0-D arrays as its elements is called uni-dimensional or 1-D array. These are the most common and basic arrays.
+- 2-D arrays : An array that has 1-D arrays as its elements is called a 2-D array. These are often used to represent matrix or 2nd order tensors.
+- 3-D arrays : An array that has 2-D arrays (matrices) as its elements is called 3-D array. These are often used to represent a 3rd order tensor.
 
 ### Check Number of Dimensions?
 - NumPy Arrays provides the ndim attribute that returns an integer that tells us how many dimensions the array have.
