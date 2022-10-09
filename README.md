@@ -32,6 +32,25 @@
 - If the file exists, the function will truncate all the contents as soon as you open it.
 - If the file doesn’t exist, the function creates a new file.
 
+# Module In Python
+- A Python module is a file containing Python definitions and statements. A module can define functions, classes, and variables. A module can also include runnable code. Grouping related code into a module makes the code easier to understand and use. It also makes the code logically organized.
+## Math
+- math module is python module that can handle these complex calculations. Both simple mathematical calculations like addition (+), and subtraction (-), and advanced mathematical calculations like trigonometric operations, and logarithmic
+## IO
+- Python io module allows us to manage the file-related input and output operations. The advantage of using the IO module is that the classes and functions available allows us to extend the functionality to enable writing to the Unicode data.
+## Datetime
+- Python Datetime module supplies classes to work with date and time. These classes provide a number of functions to deal with dates, times and time intervals.There are 6 main classes in Datetime module :
+•	date
+•	time 
+•	datetime
+•	timedelta
+•	tzinfo
+•	Timezone
+## Sys
+- Sys module in Python provides various functions and variables that are used to manipulate different parts of the Python runtime environment. It allows operating on the interpreter as it provides access to the variables and functions that interact strongly with the interpreter. Let’s consider the below example.
+## Random
+- Python Random module is an in-built module of Python which is used to generate random numbers. These are pseudo-random numbers means these are not truly random. This module can be used to perform random actions such as generating random numbers, print random a value for a list or string, etc.
+
 
 
 
