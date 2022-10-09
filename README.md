@@ -32,6 +32,14 @@
 - If the file exists, the function will truncate all the contents as soon as you open it.
 - If the file doesn’t exist, the function creates a new file.
 
+### Check Existence
+- we can check existence of txt file by using os module
+- to check existence we must using os.path.isfile('filename.txt') query will return boolean value
+
+### Remove
+- We can remove txt file by using os module and call remove function
+- to remove file we must using os.remove('filename.txt') query will remove file in the directory
+
 # Module In Python
 - A Python module is a file containing Python definitions and statements. A module can define functions, classes, and variables. A module can also include runnable code. Grouping related code into a module makes the code easier to understand and use. It also makes the code logically organized.
 ## Math
