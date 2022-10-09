@@ -40,7 +40,7 @@
 - Python io module allows us to manage the file-related input and output operations. The advantage of using the IO module is that the classes and functions available allows us to extend the functionality to enable writing to the Unicode data.
 ## Datetime
 - Python Datetime module supplies classes to work with date and time. These classes provide a number of functions to deal with dates, times and time intervals.There are 6 main classes in Datetime module :
--	date <br />
+--	date <br />
 •	time <br />
 •	datetime <br />
 •	timedelta <br />
