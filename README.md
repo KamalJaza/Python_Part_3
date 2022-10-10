@@ -1,5 +1,20 @@
 # Python-Part-3
 # Function
+- in Math, a function is a process that relates an input and an output
+- in Python, in addition to those relational functions. Functions are also a way to organize code with the ultimate goal of reusability.
+- It is recommended that functions have only one specific use but can be reused
+- Common functions are available in Python
+- But we can always define our own function
+### Definition
+- Functions are defined with the def keyword followed by the name of the function and its parameters in brackets ()
+- Optionally, you can add docstring-string documentation describing the context of the function
+- The code block in each function starts with a colon using an indentation
+- The function stops when there is a return statement (expression) that returns (expression) to the caller
+- You can also make the function return no output by returning None
+###Return
+- the return statement (expression) will make the program execution exit the current function, while returning a certain value
+- The return value in a function can be stored in a variable
+- This is what distinguishes a function that returns a value from a function that does not return a value (often called a procedure).
 ### Pass by Reference vs Value
 - All the parameters in the python language are passed by reference. So, if we change what a parameter refers to within a function, the change also reflects back in the calling function.
 ### Function Arguments and Parameters
