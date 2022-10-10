@@ -11,7 +11,7 @@
 - The code block in each function starts with a colon using an indentation
 - The function stops when there is a return statement (expression) that returns (expression) to the caller
 - You can also make the function return no output by returning None
-###Return
+### Return
 - the return statement (expression) will make the program execution exit the current function, while returning a certain value
 - The return value in a function can be stored in a variable
 - This is what distinguishes a function that returns a value from a function that does not return a value (often called a procedure).
